@@ -1,4 +1,4 @@
-#Cliente LipeRMI sobre una calculadora IMC
+#Cliente RMI estandar sobre una calculadora IMC
 
 ##Estudiante: ##Eliab Ricardo Jaraba Rios
 
