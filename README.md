@@ -1,4 +1,4 @@
-#Cliente TCP/iP sobre una calculadora IMC
+#Servidor LipeRMI sobre una calculadora IMC
 
 ##Estudiante: ##Eliab Ricardo Jaraba Rios
 
